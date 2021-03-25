@@ -277,6 +277,9 @@ TSWLatexianTemp*
 # Makeindex log files
 *.lpz
 
+# Aux directory
+*/latex_compile/
+
 
 ######
 ### R (from https://github.com/github/gitignore/blob/master/R.gitignore)
