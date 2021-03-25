@@ -1,2 +1,3 @@
-# project_template
-Defines the template for easy setup of projects
+# Project Template
+
+Defines the template for easy setup of data analysis projects.
