@@ -26,6 +26,3 @@ if(file.access(data_file_path, mode = 4) == 0){
 
 ## Remove unwanted variables
 rm(data_file_path)
-
-
-
